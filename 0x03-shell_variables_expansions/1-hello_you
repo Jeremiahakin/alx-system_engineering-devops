@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello $USER"
+echo (('echo PATH |grep -o ":/" |nc -l'+ 1))
